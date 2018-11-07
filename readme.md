@@ -1,5 +1,5 @@
-# Classless but Ebbinghaus-polite Python Coding
-#PyCon Canada 2018
+#   Classless but Ebbinghaus-polite Python Coding #
+## PyCon Canada 2018 ##
 
  ![image of programmer stressed from all the names to learn](https://github.com/howard8888/pycon-ca-2018/blob/master/PHOTO-2018-10-26-07-22-16.jpg)
 
