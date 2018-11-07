@@ -1,5 +1,5 @@
-# Classless but Ebbinghaus-polite Python Coding#
-##PyCon Canada 2018##
+# Classless but Ebbinghaus-polite Python Coding
+#PyCon Canada 2018
 
  ![image of programmer stressed from all the names to learn](https://github.com/howard8888/pycon-ca-2018/blob/master/PHOTO-2018-10-26-07-22-16.jpg)
 
@@ -38,4 +38,4 @@ Replace OOP (Object Oriented Programming) with HOP (Human Oriented Programming).
 
 "Classless but Ebbinghause-polite Python coding"
 
-         ![image of happy programmer](https://github.com/howard8888/pycon-ca-2018/blob/master/happy_developer_jxnyk9.gif)
+   ![image of happy programmer](https://github.com/howard8888/pycon-ca-2018/blob/master/happy_developer_jxnyk9.gif)
