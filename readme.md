@@ -19,7 +19,7 @@ George Miller "The Magical Number Seven, Plus or Minus Two" (1956) makes us awar
 fragility of human working memory, and the limited resource we have there in processing
 new stimuli.
 
-Replace OOP (Object Oriented Programming) with HOP (Human Oriented Programming).
+Replace OOP (Object Oriented Programming) with what I call "Human Oriented Programming" ("HOP").
 
 -Must minimize anything that taxes the very limited human working memory.
 
