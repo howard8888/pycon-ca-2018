@@ -1,5 +1,5 @@
 #   Human Oriented Programming (HOP)
-#"Classless but Ebbinghaus-polite Python Coding"
+"Classless but Ebbinghaus-polite Python Coding"
 ##   PyCon Canada 2018 
 
 ![image of giving short talk on topic at Pycon Canada 2018](https://github.com/howard8888/pycon-ca-2018/blob/master/pycon2018_shorttalk_2.jpg)
