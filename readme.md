@@ -1,7 +1,7 @@
 #   Classless but Ebbinghaus-polite Python Coding #
 ## PyCon Canada 2018 ##
 
- ![image of programmer stressed from all the names to learn](https://github.com/howard8888/pycon-ca-2018/blob/master/PHOTO-2018-10-26-07-22-16.jpg)
+![image of giving short talk on topic at Pycon Canada 2018](https://github.com/howard8888/pycon-ca-2018/blob/master/pycon2018_shorttalk_2.jpg)
 
 Anything that let's me transform an idea into code is great, including Python and Object Oriented Programming (OOP) paradigm.
 
@@ -9,7 +9,7 @@ But....as I code the larger version 3 of my project, the logic of the advantages
 
 A programmer does not have enough working memories in his/her brain to handle the many names, classes, inheritance structure, etc of a large project such as the one I am working on.
 
-
+ ![image of programmer stressed from all the names to learn](https://github.com/howard8888/pycon-ca-2018/blob/master/PHOTO-2018-10-26-07-22-16.jpg)
 
 A programming paradigm should take into account human 'memory bandwidth'.
 
